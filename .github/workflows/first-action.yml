@@ -6,5 +6,5 @@ jobs:
     steps:
       - name: Print greeting
         run: echo "Estoy probando github actions"
-      -name: Print goodbye
+      - name: Print goodbye
         run: echo "Done - bye!"
